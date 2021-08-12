@@ -16,5 +16,6 @@
 - full-tree.py implements a full tree for the provided dataset
 - best-dt.py implements a tree with best maximum depth for the provided dataset 
 - prunning.py implements prunning techniques for building tree with the provided dataset
+- info-gain.py implements a prunning strategies by using minimum info gain for buidling tress with the provided dataset
 
     
