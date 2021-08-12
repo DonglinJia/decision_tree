@@ -11,6 +11,7 @@
     1. All the examples belong to the same class
     2. There are no more features to test
     3. There are no more examples
+- For more explanation, please visit https://donglinjia.github.io/angular-website/assets/files/AI.pdf at page 26
 
 ## Provided files
 - full-tree.py implements a full tree for the provided dataset
