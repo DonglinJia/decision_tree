@@ -12,5 +12,9 @@
     2. There are no more features to test
     3. There are no more examples
 
+## Provided files
+- full-tree.py implements a full tree for the provided dataset
+- best-dt.py implements a tree with best maximum depth for the provided dataset 
+- prunning.py implements prunning techniques for building tree with the provided dataset
 
     
