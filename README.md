@@ -8,5 +8,5 @@
   * determine the order of testing the input features
   * give an order of testing the input features, we can build a decision tree by splitting the examples
   * When do we stop:
-    ** All the examples belong to the same class
+    1. All the examples belong to the same class
     
