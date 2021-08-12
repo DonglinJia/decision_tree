@@ -9,4 +9,8 @@
   * give an order of testing the input features, we can build a decision tree by splitting the examples
   * When do we stop:
     1. All the examples belong to the same class
+    2. There are no more features to test
+    3. There are no more examples
+
+
     
